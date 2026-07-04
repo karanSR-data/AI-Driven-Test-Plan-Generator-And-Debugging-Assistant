@@ -1,0 +1,21 @@
+Login System Requirements
+
+1. Users shall log in using email and password.
+
+2. Password length must be between 8 and 16 characters.
+
+3. The system shall lock the account after 5 consecutive failed login attempts.
+
+4. Users can reset their password using the Forgot Password feature.
+
+5. The system shall display an error message for invalid credentials.
+
+6. Session timeout shall occur after 15 minutes of inactivity.
+
+7. User passwords must be stored in encrypted form.
+
+8. The login page shall support Chrome, Firefox, and Edge browsers.
+
+9. Multi-factor authentication (MFA) shall be supported.
+
+10. Successful login shall redirect the user to the dashboard.

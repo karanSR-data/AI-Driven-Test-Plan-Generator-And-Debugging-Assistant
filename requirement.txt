@@ -1,0 +1,14 @@
+streamlit==1.39.0
+openai==1.54.0
+python-dotenv==1.0.1
+langchain==0.3.7
+langchain-huggingface
+langchain-groq
+langchain-community==0.3.5
+langchain-openai==0.2.5
+faiss-cpu==1.9.0
+sentence-transformers==3.2.1
+pypdf==5.1.0
+tiktoken==0.8.0
+pytest==8.3.3
+pandas==2.2.3
