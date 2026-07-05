@@ -340,11 +340,8 @@ streamlit run testpilot/app.py
 ---
 
 # 📸 Screenshots
-
-<img width="1814" height="749" alt="Screenshot 2026-07-05 230247" src="https://github.com/user-attachments/assets/f0f8692c-49de-4b7a-87fb-41cd3197ea25" />
-<img width="1814" height="563" alt="Screenshot 2026-07-05 230257" src="https://github.com/user-attachments/assets/70ef02d3-2fbd-4161-88b6-84968007a749" />
-<img width="1827" height="729" alt="Screenshot 2026-07-05 230307" src="https://github.com/user-attachments/assets/d696e78f-62a3-4478-805c-25ebe3012340" />
-
+<img width="1848" height="831" alt="image" src="https://github.com/user-attachments/assets/c39144e3-8d9d-4895-ad05-70e6b226a08c" />
+<img width="1846" height="904" alt="image" src="https://github.com/user-attachments/assets/f8df056f-1df9-4431-a727-45c95cabe09c" />
 
 
 
