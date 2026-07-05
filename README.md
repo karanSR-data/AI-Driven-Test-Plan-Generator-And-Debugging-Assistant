@@ -341,7 +341,10 @@ streamlit run testpilot/app.py
 
 # 📸 Screenshots
 
-> Screenshots of the application interface will be added after deployment.
+<img width="1841" height="853" alt="Screenshot 2026-07-05 230247" src="https://github.com/user-attachments/assets/215f1d84-55e7-46d5-8317-7a4239e0d2d5" />
+<img width="1827" height="729" alt="Screenshot 2026-07-05 230307" src="https://github.com/user-attachments/assets/637feb8c-35bc-4884-b984-a33a3ce57fa0" />
+
+
 
 ---
 
