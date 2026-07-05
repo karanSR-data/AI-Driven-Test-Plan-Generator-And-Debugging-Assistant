@@ -341,6 +341,7 @@ streamlit run testpilot/app.py
 
 # 📸 Screenshots
 <img width="1848" height="831" alt="image" src="https://github.com/user-attachments/assets/c39144e3-8d9d-4895-ad05-70e6b226a08c" />
+<img width="1854" height="612" alt="image" src="https://github.com/user-attachments/assets/48f72fef-4ffa-4f3c-9ef1-4966099f1109" />
 <img width="1846" height="904" alt="image" src="https://github.com/user-attachments/assets/f8df056f-1df9-4431-a727-45c95cabe09c" />
 
 
